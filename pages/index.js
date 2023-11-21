@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Filipe, obrigado por ser essse ser humano excepcional<br/>e por essa oportunidade de aperfeiçoamento que estás<br/>proporcionando para tanta gente.<br/>Que Deus continue te abençoando muito,<br/>a ti e tua família.&#128513;</h1>;
+    return <h1>Monaliza é considerada uma<br/>apenas uma obra de arte,<br/>por que a mais bela obra de arte<br/>é esse teu sorriso, Milena.</h1>;
 }
 
 export default Home;
